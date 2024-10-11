@@ -1,0 +1,501 @@
+@media screen and (max-width: 1400px) {
+  .flex-group li {
+    width: 31%;
+  }
+  .tube-block .tube-chart {
+    width: 400px;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .sport-info-conetnt {
+    padding: 0 20px;
+  }
+  .sport-info {
+    width: 38%;
+    margin:0 2% 0 0;
+  }
+  .chart-g {
+    width: 90%;
+  }
+  .flex-group .construction-name {
+    letter-spacing: 0.1em;
+  }
+  .flex-group .construction-name .counter {
+    font-size: 3rem;
+    letter-spacing: 0;
+  }
+  
+}
+@media screen and (max-width: 1000px) {
+  .chart-g .chart-pic {
+    width: 200px;
+  }
+  .chart-g .chart-pic > div {
+    width: 200px;
+    border-radius: 200px;
+  }
+  .chart-g .chart-info > p {
+    background-size: auto 40px;
+    padding: 50px 0 0 0;
+  }
+  .construction-slide-group {
+    padding: 2em 0 0 0;
+  }
+  .flex-group {
+    width: 100%;
+    padding: 0 5%;
+    box-sizing: border-box;
+  }
+  .pd-1 {
+    margin-left: 0%;
+  }
+  .flex-group li:nth-child(4) {
+    margin-left:0%;
+  }
+  .flex-group li:nth-child(6) {
+    margin-right:0%;
+  }
+  .slick-dotted.slick-slider {
+    margin-bottom: 0;
+  }
+  .flex-group .construction-icon img {
+  }
+  .flex-group li {
+    margin-bottom: 80px;
+  }
+  .flex-group .slider-box {
+    width: calc(100% + 30px);
+    float: right;
+    margin: 0 -30px -50px 0;
+  }
+  .bar-chart {
+    width: 90%;
+    margin: -190px 5% 0 5%;
+  }
+  .piechart-block .canvas canvas {
+    position: absolute;
+    left: 50%;
+    margin: 20px 0 0 -200px;
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  body {
+    font-size: 15px;
+  }
+  .traffic-text {
+    width: 90%;
+  }
+  .construction-text {
+    width: 90%;
+    margin: 0 0 0 10%;
+  }
+  .art-text {
+    width: 90%;
+  }
+  .social-text {
+    width: 90%;
+  }
+  .honor-text {
+    width: 90%;
+  }
+  .flex-group li {
+    width: 48%;
+  }
+  .house-location ul li {
+    width: 25%;
+  }
+  footer .qrcode {
+    width: 100%;
+    margin: 20px 0 0 0;
+    text-align: center;
+  }
+  footer .qrcode li {
+    float:none;
+    display: inline-block;
+  }
+  .mb-hide {
+    display: none;
+  }
+  .sport-info-mb {
+    width: 100%;
+    margin: 0 0%;
+    display: block;
+    float:left;
+    padding: 0;
+  }
+  .sport-info {
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    margin:0;
+
+  }
+  .tube-block {
+    display: block;
+  }
+  .tube-block .tube-info {
+    text-align: center;
+    width: 100%;
+    margin:40px 0 0 0;
+  }
+  .bus .bus-run {
+    background-size: 200px auto;
+    padding: 0 0 125px 0;
+    width: 200px;
+    margin: 0px 10px 0 20px;
+  }
+  .bus .bus-text {
+    margin-top:50px;
+  }
+  .ubike .bike-run {
+    background-size: 150px auto;
+    padding: 0 0 115px 0;
+    width: 150px;
+  }
+  .ubike .bike-text {
+    margin-top: 50px;
+  }
+  .house-block h2 {
+    margin:40px 0 160px 0;
+  }
+  .sm-slider {
+    display: block;
+    margin:20px 0 0 0;
+  }
+  .map-box .box-map-info {
+    padding: 0;
+    width: 100%;
+  }
+  .gallery-pic .pic-group .pic-group-info h3 {
+    padding: 60px 0 0 0;
+  }
+  .gallery-pic .pic-group .pic-group-info h3 p {
+    font-size: 1.2rem;
+    margin: 0 0 10px 0;
+  }
+  .gallery-pic .pic-group .pic-group-info h3 .counter {
+    font-size: 2rem;
+  }
+  .gallery-pic .pic-group .pic-group-info .title-reward {
+    background: url(../images/icon_badge_01.png) no-repeat center top;
+    background-size: 40px auto;
+  }
+  .gallery-pic .pic-group .pic-group-info .title-first {
+    background: url(../images/icon_badge_02.png) no-repeat center top;
+    background-size: 40px auto;
+  }
+  .piechart-block .library-left {
+    width: 40%;
+  }
+  .piechart-block .library-right {
+    width: 40%;
+  }
+  .piechart-block .library-right h2 , .piechart-block .library-left h2 {
+    background-size: auto 40px;
+    padding: 50px 0 0 0;
+  }
+  .piechart-block .library-right h2 p , .piechart-block .library-left h2 p {
+    font-size: 1.5rem;
+  }
+  .piechart-block .library-right h2 .counter , .piechart-block .library-left h2 .counter {
+    font-size: 2.5rem;
+  }
+}
+@media screen and (max-width: 640px) {
+  body {
+    font-size: 14px;
+  }
+  .topic-title {
+    font-size: 2rem;
+  }
+  .topic-title span {
+    font-size: 1.5rem;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+  }
+  .bus .bus-text .counter , .ubike .bike-text .counter {
+    font-size: 2.5rem;
+  }
+  .bus .bus-text , .ubike .bike-text {
+    font-size: 1rem;
+  }
+  .traffic-article {
+    padding-left: 75px;
+  }
+  .traffic-film {
+    margin-bottom: 40px;
+  }
+  .construction-block {
+    margin: 0;
+  }
+  .traffic-text {
+    width: 100%;
+    margin: 0 0 0 0%;
+    padding: 30px 30px 100px 30px
+  }
+  .construction-text {
+    width: 100%;
+    margin: 0 0 0 0%;
+    padding: 30px 30px 200px 30px
+  }
+  .construction-article {
+    padding-right: 70px;
+  }
+  .art-text {
+    width: 100%;
+    margin: 0 0 0 0px;
+    padding: 30px 30px 100px 30px
+  }
+  .art-film {
+    margin-top: -50px;
+  }
+  .art-article {
+    padding-left: 75px;
+  }
+  .social-block {
+    margin:0;
+  }
+  .social-text {
+    width: 100%;
+    margin: 0 0 0 0%;
+    padding: 30px 30px 30px 30px;
+  }
+  .social-article {
+    padding-right: 70px;
+  }
+  .tube-block .tube-info h2 p {
+    font-size: 2rem;
+  }
+  .tube-block .tube-info h2 .counter {
+    font-size: 2.5rem;
+  }
+  .honor-text {
+    width: 100%;
+    margin: 0 0 0 0%;
+    padding: 30px 30px 290px 30px
+  }
+  .house-block h2 {
+    background-size: auto 50px;
+    padding: 60px 0 0 0;
+    margin: 20px 0 120px 0;
+    letter-spacing: 0.1em;
+  }
+  .honor-article {
+    padding-left: 75px;
+  }
+  .house-location ul li {
+    width: 33%;
+  }
+  .traffic-title:before , .construction-title:before , .art-article:before,
+  .social-title:before , .honor-title:before  {
+    font-size: 1.2rem;
+    /*font-style: italic;*/
+  }
+  .traffic-title:before {
+    left: 10px;
+    top: 135px;
+  }
+  .construction-title:before {
+    right: -45px;
+    top: 190px;
+  }
+  .art-article:before {
+    left: 25px;
+    top: 65px;
+  }
+  .social-title:before {
+    right: -130px;
+    top: 95px;
+  }
+  .honor-title:before {
+    left: 55px;
+    top: 95px;
+  }
+  .bar-chart {
+    margin-top:0;
+  }
+  .house-block h2 .counter {
+    font-size: 2.5rem;
+  }
+  .flex-group li {
+    width: 100%;
+    padding: 20px;
+  }
+  .flex-group .slider-box {
+    width: calc(100% + 0px);
+    float: right;
+    margin: 0 0px 0px 0;
+  }
+  .flex-group li {
+    margin-bottom: 40px;
+  }
+  .sport-block .title-sport {
+    margin: 40px 0;
+  }
+  .sport-block .title-tube {
+    margin: 40px 0;
+  }
+  .sport-info-mb {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0 30px;
+    float: left;
+  }
+  .text-animate {
+    left: 20px;
+    bottom: 20px;
+  }
+  .ml3 {
+    font-size: 2em;
+    margin: 0 0 10px 0;
+  }
+  .chart-g .chart-pic > div {
+    width: 150px;
+    height: 150px;
+  }
+  .chart-g {
+    width: 100%;
+    margin:0 0 20px 0;
+  }
+  .chart-g .chart-pic {
+    width: 150px;
+  }
+  .chart-g .chart-info > p {
+    font-size: 1.5rem;
+  }
+  .chart-g .counter {
+    font-size: 2.5rem;
+  }
+
+  .bus , .ubike {
+    width: 90%;
+    margin: 0 0 20px 0;
+  }
+
+  .bus .bus-run {
+    background-size: 100px auto;
+    padding: 0 0 55px 0;
+    width: 100px;
+  }
+  .bus .bus-text {
+    margin-top: 25px;
+  }
+  .ubike .bike-run {
+    background-size: 100px auto;
+    padding: 0 0 75px 0;
+    width: 100px;
+  }
+  .ubike .bike-text {
+    margin-top:35px;
+  }
+  .gallery-pic .pic-group {
+    width: 100%;
+  }
+  .gallery-pic .pic-group .pic-group-info h3 {
+    padding: 80px 0 0 0;
+  }
+  .gallery-pic .pic-group .pic-group-info h3 p {
+    font-size: 1.5rem;
+    margin: 0 0 10px 0;
+  }
+  .gallery-pic .pic-group .pic-group-info h3 .counter {
+    font-size: 2.5rem;
+  }
+  .gallery-pic .pic-group .pic-group-info .title-reward {
+    background: url(../images/icon_badge_01.png) no-repeat center top;
+    background-size: 50px auto;
+  }
+  .gallery-pic .pic-group .pic-group-info .title-first {
+    background: url(../images/icon_badge_02.png) no-repeat center top;
+    background-size: 50px auto;
+  }
+  .piechart-block .canvas canvas {
+    width: 250px;
+    margin:20px 0 0 -125px;
+  }
+  .piechart-block .library-right h2 p, .piechart-block .library-left h2 p {
+    font-size: 1.2rem;
+    margin: 0 0 5px 0;
+  }
+  .piechart-block .library-right h2 .counter, .piechart-block .library-left h2 .counter {
+    font-size: 2rem;
+  }
+  .honor-gallery {
+    width: 100%;
+    margin: -250px 0 0em 0;
+    padding: 0 0 0px 0%;
+  }
+  footer {
+    padding: 30px;
+  }
+}
+@media screen and (max-width: 480px) {
+  body {
+    font-size: 13px;
+  }
+  .bus .bus-run {
+    background-size: 80px auto;
+    padding: 0 0 45px 0;
+    width: 80px;
+    font-size: 1rem;
+  }
+  .bus .bus-text {
+    margin-top: 25px;
+  }
+  .ubike .bike-run {
+    background-size: 70px auto;
+    padding: 0 0 55px 0;
+    width: 70px;
+    font-size: 1rem;
+  }
+  .ubike .bike-text {
+    margin-top:35px;
+  }
+  .map-box {
+    padding: 50px 20px;
+  }
+  .house-location ul li {
+    width: 100%;
+    padding: 0 20%;
+  }
+  .chart-g .chart-pic {
+    width: 100px;
+  }
+  .chart-g .chart-pic > div {
+    width: 100px;
+    height: 100px;
+  }
+  .chart-g .chart-info > p {
+    background-size: auto 30px;
+    padding: 35px 0 0 0;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+  }
+  .chart-g .counter {
+    font-size: 2rem;
+  }
+  .chart-bar-scale .chart-bar-bg {
+    margin: 0 -10px 10px 0px;
+  }
+  .chart__bar {
+    height: 20px;
+  }
+  .piechart-block .canvas canvas {
+    width: 150px;
+    margin:30px 0 0 -75px;
+  }
+  .piechart-block .library-right h2 p, .piechart-block .library-left h2 p {
+    font-size: 1rem;
+    margin: 0 0 0px 0;
+  }
+  .piechart-block .library-right h2 .counter, .piechart-block .library-left h2 .counter {
+    font-size: 1.2rem;
+  }
+  .tube-block .tube-chart {
+    width: 300px;
+  }
+}
